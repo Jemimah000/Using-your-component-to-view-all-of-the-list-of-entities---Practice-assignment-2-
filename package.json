@@ -24,5 +24,18 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "vite": "^6.0.7"
-  }
+  },
+  "description": "You are developing a social media application and need to display all user posts on the home page.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jemimah000/Using-your-component-to-view-all-of-the-list-of-entities---Practice-assignment-2-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jemimah000/Using-your-component-to-view-all-of-the-list-of-entities---Practice-assignment-2-/issues"
+  },
+  "homepage": "https://github.com/Jemimah000/Using-your-component-to-view-all-of-the-list-of-entities---Practice-assignment-2-#readme"
 }
